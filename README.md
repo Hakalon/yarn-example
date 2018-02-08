@@ -9,6 +9,7 @@ When you successfully install it, you can use
 yarn version
 ```
 If everything is right, then you can see the version of yarn and the version of your project.
+
 (__By default__, your project version is 1.0.0, and is recorded in package.json)
 
 ## Yarn Usage
