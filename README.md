@@ -14,7 +14,7 @@ If everything is right, then you can see the version of yarn and the version of 
 
 ## Yarn Usage
 
-There is a [table](https://yarnpkg.com/en/docs/migrating-from-npm) showing the difference between npm and yarn, also you can find a lot of commands which you usally used in npm, please check it.
+There is a [*table*](https://yarnpkg.com/en/docs/migrating-from-npm) showing the difference between npm and yarn, also you can find a lot of commands which you usally used in npm, please check it.
 
 Be noticed, command ```yarn add "packageName"``` will automaticlly save this package to packages.json.
 
