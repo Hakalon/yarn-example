@@ -42,7 +42,7 @@ yarn run build // or yarn build
 ```
 to run the build script.
 
-## Yarn self-update
+## Yarn self-update 
 
 It seems that the only way to update Yarn itself is use the msi offered by official website on windows.
 
