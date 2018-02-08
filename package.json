@@ -1,0 +1,24 @@
+{
+  "name": "ask",
+  "version": "1.0.0",
+  "description": "ASK&AVS on lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ASK",
+    "Lambda"
+  ],
+  "author": "Steve Lai",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.12",
+    "async": "^2.5.0",
+    "aws4": "^1.6.0",
+    "body-parser": "^1.17.2",
+    "fs": "0.0.1-security",
+    "mqtt": "^2.6.2",
+    "request": "^2.81.0"
+  }
+}
