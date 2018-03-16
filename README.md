@@ -22,7 +22,9 @@ Namely, there is no need to add parameter like **--save**.
 
 (There is *no way* you can install a package without touching packages.json by yarn!)
 
-And you can use ```yarn add "packageName" [-dev / -peer / -prod]``` to add [different types of dependency](https://yarnpkg.com/lang/en/docs/dependency-types/) on these packages.
+And you can use ```yarn add "packageName" [--dev (-D) / --peer (-P)]``` to add [different types of dependency](https://yarnpkg.com/lang/en/docs/dependency-types/) on these packages.
+
+By the way, when you are installing dependencies, you should use ``` yarn install [--production=ture / --production / --prod] ``` to install packages without dev dependencies. More information [here](https://yarnpkg.com/lang/en/docs/cli/install/#toc-yarn-install-production-true-false).
 
 ## Yarn Script
 
